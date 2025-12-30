@@ -53,9 +53,7 @@ public class DHTOperations {
                     return remoteSession;
                 }
             }
-            
-            localSession.incrementVersion();
-            
+
             if (put(peer, key, localSession)) {
                 logger.debug("Put with version success. New version: {}", localSession.getVersion());
                 return localSession;
