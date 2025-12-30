@@ -8,7 +8,7 @@ Gioco **Kakuro multiplayer** su rete **peer-to-peer decentralizzata** con **DHT*
 
 ### Nessun Server Centrale
 ```
-    ❌ Sistema Centralizzato          ✅ Questo Progetto (P2P)
+     Sistema Centralizzato           Questo Progetto (P2P)
     
          [SERVER]                      Peer A ←→ Peer B
           /    \                           ↖   ↗
